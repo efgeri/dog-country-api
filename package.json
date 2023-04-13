@@ -1,6 +1,6 @@
 {
   "name": "dog_api_start",
-  "homepage": "https://efgeri.github.io/React-To-Do-list/",
+  "homepage": "https://efgeri.github.io/dog-country-api",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
